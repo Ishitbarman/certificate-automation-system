@@ -85,8 +85,8 @@ def generate_certificate(name, template_path):
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465  # SSL
-SENDER_EMAIL = "ishitbarman2006@gmail.com"
-SENDER_PASSWORD = "vsoesmghizhnyjyy"
+SENDER_EMAIL = "Your_Email_Address"
+SENDER_PASSWORD = "Your_app_password"
 
 def send_certificate_email(receiver_email, receiver_name, certificate_path):
     msg = EmailMessage()
