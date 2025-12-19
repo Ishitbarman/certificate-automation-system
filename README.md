@@ -24,29 +24,19 @@ Certificate_Automation/
 ├── requirements.txt
 ├── README.md
 
+## ▶️ How to Run
 
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-📝 Notes
-
-Certificate template is designed externally (e.g., Canva)
-System fills only participant names for maximum design accuracy
+1. Clone the repo
+2. Create virtual environment
+3. Install dependencies
+   pip install -r requirements.txt
+4. Run the app
+   streamlit run app.py
 
 
-Save.
+Built to reduce manual workload for event teams and ensure faster certificate delivery.
 
----
 
-## ✅ STEP 4: INITIALIZE GIT (LOCAL)
 
-From inside your project folder:
-
-```bash
-cd Certificate_Automation
-git init
 
 
