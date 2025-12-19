@@ -34,7 +34,7 @@ Certificate_Automation/
     - streamlit run app.py
 
 ## 🔧 Setup
-- bash
+Inside bash
 - git clone https://github.com/ishitbarman/certificate-automation-system.git
 - cd certificate-automation-system
 - python3 -m venv venv
